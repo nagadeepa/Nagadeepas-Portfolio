@@ -1,7 +1,7 @@
 # Nagadeepa's DataScience Portfolio
 Datascience projects
 
-theme: slate
+theme: Slate
 
 # Project 1: 
 * Created.....
