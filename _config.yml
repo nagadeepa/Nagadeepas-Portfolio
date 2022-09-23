@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Hi I am Nagadeepa
+title: Nagadeepa's DataScience Portfolio
 description: Here are the overview of some of my datascience projects 
